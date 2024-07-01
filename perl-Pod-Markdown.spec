@@ -7,7 +7,7 @@
 #
 Name     : perl-Pod-Markdown
 Version  : 3.400
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/R/RW/RWSTAUNER/Pod-Markdown-3.400.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RW/RWSTAUNER/Pod-Markdown-3.400.tar.gz
 Summary  : 'Convert POD to Markdown'
